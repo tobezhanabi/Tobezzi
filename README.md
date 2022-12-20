@@ -18,10 +18,10 @@
   </tr>
 </table>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yanukadeneth99&theme=redical&bg_color=0D1117&color=D85F82&line=D85F82&point=FFFFFF&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tobezhanabi&theme=redical&bg_color=0D1117&color=D85F82&line=D85F82&point=FFFFFF&hide_border=true)
 
 <!-- Blogs -->
-<h2 align="right"> Blogs ✍️ </h2><br />
+<h2 align="right"> website ✍️ </h2><br />
 <ul>
   <li><a href="https://yashura.hashnode.dev/">Tech Articles</a></li>
   <li><a href="https://blog.ushiftmusic.com/">Music Articles</a></li>
@@ -33,8 +33,6 @@
 <h2 align="right"> Full Tech Stack 🏗️ </h2><br />
 
 <img src="https://i.imgur.com/5vNPPQh.png" />
-<a href="https://www.showwcase.com/yanukadeneth99">2022 Source - Showwcase</a>
+<a href="hhttps://www.showwcase.com/tobezhanabi"> My - Showwcase</a>
 
-<!-- Objects -->
-[ASCIIX]: https://asciix.com "ASCIIX : Software Engineering Company (https://asciix.com)"
-[USHIFT MUSIC]: https://ushiftmusic.com "Ushift Music : Music Production Company (https://ushiftmusic.com)"
+
