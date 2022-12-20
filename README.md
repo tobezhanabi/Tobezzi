@@ -32,7 +32,7 @@
 <!-- Full Tech Stack -->
 <h2 align="right"> Full Tech Stack 🏗️ </h2><br />
 
-<img src="https://i.imgur.com/5vNPPQh.png" />
+
 <a href="hhttps://www.showwcase.com/tobezhanabi"> My - Showwcase</a>
 
 
