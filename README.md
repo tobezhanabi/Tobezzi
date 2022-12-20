@@ -3,17 +3,17 @@
 
 <br />
 <div align="center">
-  <img align="center" src="https://img.shields.io/github/followers/yanukadeneth99?label=Github&style=for-the-badge" />
+  <img align="center" src="https://img.shields.io/github/followers/tobezhanabi?label=Github&style=for-the-badge" />
   <img align="center" src="https://img.shields.io/twitter/follow/hanabiplug?label=Twitter&style=for-the-badge" />
 </div>
 
 <table align="center">
   <tr>
     <td align="left">
-       <a href="http://www.github.com/yanukadeneth99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yanukadeneth99&background=0D1117&ring=D85F82&fire=D85F82&currStreakNum=ffffff&currStreakLabel=D85F82&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+       <a href="http://www.github.com/tobezhanabi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tobezhanabi&background=0D1117&ring=D85F82&fire=D85F82&currStreakNum=ffffff&currStreakLabel=D85F82&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td align="right">
-      <a href="https://github.com/yanukadeneth99"><img alt="Yanuka Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanukadeneth99&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&exclude_repo=GameSellShop"/></a>
+      <a href="https://github.com/tobezhanabi"><img alt="Tobenna's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobezhanabi&langs_count=10&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&exclude_repo=GameSellShop"/></a>
     </td>
   </tr>
 </table>
